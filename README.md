@@ -34,7 +34,4 @@ I want to learn English. Now I watch English youtube channels and articles every
 - [Music player](https://ms314006.github.io/MP3_Player-With-React/dist/)
 
 ## 🔗 Get in touch
-- Personal site: http://ms314006.github.io/
-- Dev.to: https://dev.to/ms314006
-- StackOverflow: https://stackoverflow.com/users/10421516/clark
-- Medium: https://medium.com/@GQSM
+- linkedin: www.linkedin.com/in/lee-mengchieh
