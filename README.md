@@ -1,37 +1,20 @@
-## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />Lee Meng Chieh aka. Jedi
+## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />Lee Meng Chieh. Jedi
 
-Hi, I'm Lee! I am a back-end Developer of web, Iaas service also swing dancer. I love learing new technology and skills of web. I leaving in Taiwan now. I want to work at others country, talk a lot with all sort of people and know more about this world.
+Hi, I'm Lee! I am a C# .Net back-end Developer of web, Iaas service also familiar with Vmware platform. I love learing new technology and skills. I leaving in Taiwan now. I want to work at others country, talk a lot with all sort of people and know more about this world.
 
 ## 🤓 My values
-🍏 Beginner's mindset and curiosity<br>
-🙌 Sharing anything I learned<br>
-
-## 🔭 Goals of 2020
-
-I want to learn English. Now I watch English youtube channels and articles everyday and write English articles about program technology each week, I hope I can prepared in 2020 💪. I also want to contribute more open source projects make I can improve my skills of program.
+🙌 Senior Software Engineer at eASPNet data center with over six years of C# .Net experience. Lead company team in developing CI/CD procedures. Main focus: automatic IaaS environment deployment, monitoring, backup, and disaster recovery services; helping companies to transform from data centers to cloud service providers. 
 
 ## 🧠 That I know and use
 ### 📚 Langues and Frameworks
-- HTML5
-- CSS3, SCSS, SASS
-- Material-ui, Antd, Bootstrap
-- JavaScript, TypeScript
-- React, Redux, Redux-Saga React-Router, Next.js
-- Vue, Vuex, Vue-Router
-- Jest, Enzyme, React-Testing-Library, Vue-Testing-Library
+Programing Languages: C#, .net Framework/Core, SQL, InfluxDb, Selenium, Extjs 6.0
+Dev Tools: Vmware, Git, NUinit, Jenkins, Powershell, GitLab, Docker, AzureAD, RabbitMQ, Terraform, Veeam
+Dev Principles: RESTful-API, CI/CD, Agile
 
-### 🔧 Tool
-- Version Control(Git/it-Flow)
-- Test Driven Developer
-- Open Source Projects
-- Travis-CI
 
-## 💡 Projects
-- [Team of Pokemon](https://ms314006.github.io/team-of-pokemon/dist/)
-- [Hangman](https://ms314006.github.io/hangman/dist/)
-- [90 secconds game - A yellow duck](https://ms314006.github.io/90_secGame-with-React/dist/)
-- [Free cell](https://ms314006.github.io/FreeCell-With-React/dist/index.html)
-- [Music player](https://ms314006.github.io/MP3_Player-With-React/dist/)
+- C#, .net Framework/Core, SQL, InfluxDb, Selenium, Extjs 6.0
+- Vmware, Git, NUinit, Jenkins, Powershell, GitLab, Docker, AzureAD, RabbitMQ, Terraform, Veeam
+- CI/CD, RESTful-API,  Agile
 
 ## 🔗 Get in touch
 - linkedin: www.linkedin.com/in/lee-mengchieh
