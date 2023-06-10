@@ -1,4 +1,4 @@
-## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />Lee Meng Chieh. Jedi
+## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />Lee Meng Chieh
 
 Hi, I'm Lee! I am a C# .Net back-end Developer of web, Iaas service also familiar with Vmware platform. I love learing new technology and skills. I leaving in Taiwan now. I want to work at others country, talk a lot with all sort of people and know more about this world.
 
