@@ -5,8 +5,7 @@ Hi, I'm Lee! C# .Net back-end Developer of web and Iaas service(including load b
 ## 🤓 My values
 🙌 Senior Software Engineer at eASPNet data center with over six years of C# .Net experience. Lead company team in developing CI/CD procedures. Main focus: automatic IaaS environment deployment, monitoring, backup, and disaster recovery services; helping companies to transform from data centers to cloud service providers. 
 
-## 🧠 That I know and use
-### 📚 Langues and Frameworks
+## 📚 Langues and Frameworks
 Programing Languages: C#, .net Framework/Core, SQL, InfluxDb, Selenium, Extjs 6.0
 Dev Tools: Vmware, Git, NUinit, Jenkins, Powershell, GitLab, Docker, AzureAD, RabbitMQ, Terraform, Veeam
 Dev Principles: RESTful-API, CI/CD, Agile
