@@ -1,19 +1,14 @@
 ## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />Lee Meng Chieh (Base in Boston)
 
-Hi, I'm Lee.! C# .Net back-end Developer of web and Iaas service(including load balanced, Backup, DR) familiar with Vmware platform. Love learing new technology and skills.
+Hi, I'm Lee, a C# .NET back-end Developer for web and IaaS services (including load balancing, backup, and DR), familiar with the VMware platform.
 
 ## 🤓 My values
-🙌 Senior Software Engineer at eASPNet data center with over seven years of C# .Net software development experience. Led company team in developing CI/CD procedures for the production of robust and easily maintained code. Main focus: automatic IaaS environment deployment, monitoring, backup, and disaster recovery services; helping companies to transform from data centers to cloud service providers.
+Senior Software Engineer at eASPNet data center with over seven years of experience in C# .NET software development. Led the company team in developing CI/CD procedures for producing robust and easily maintained code. My main focus is on automatic IaaS environment deployment, monitoring, backup, and disaster recovery services, helping companies transition from data centers to cloud service providers.
 
 ## 📚 Langues and Frameworks
-Programing Languages: C#, .net Framework/Core, SQL, InfluxDb, Selenium, Extjs 6.0
-Dev Tools: Vmware, Git, NUinit, Jenkins, Powershell, GitLab, Docker, AzureAD, RabbitMQ, Terraform, Veeam
+Programing Languages: C#, .net Framework/Core,MS-SQL, Powershell, Redis, Extjs 6.0 Javascript
+Dev Tools: Vmware, Git, NUinit, Jenkins, GitLab, Docker, AzureAD, RabbitMQ, Terraform, Veeam
 Dev Principles: RESTful-API, CI/CD, Agile
-
-
-- C#, .net Framework/Core,MS-SQL, Powershell, Redis, Extjs 6.0 Javascript
-- Vmware, Git, NUinit, Jenkins, Powershell, GitLab, Docker, AzureAD, RabbitMQ, Terraform, Veeam
-- CI/CD, RESTful-API,  Agile
 
 ## 🔗 Get in touch
 - linkedin: www.linkedin.com/in/lee-mengchieh
